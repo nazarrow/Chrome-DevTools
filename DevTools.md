@@ -1,9 +1,9 @@
 # Chrome-DevTools
-You can watch a video of my DevTools practice :)
+You can watch a video of my DevTools practice
 
 Click below ⬇️
 
-[![Watch the video](http://images.vfl.ru/ii/1642075291/4fcbc9f0/37520557.png)](https://youtu.be/uVlLeLA_CdY)
+[![Watch the video]](https://youtu.be/uVlLeLA_CdY)
 
 ## Task
 
