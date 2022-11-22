@@ -3,7 +3,7 @@ You can watch a video of my DevTools practice
 
 Click below ⬇️
 
-[![Watch the video]](https://youtu.be/uVlLeLA_CdY)
+[[Watch the video]](https://www.youtube.com/watch?v=jtwYdABIJTE&list=PL7eEoRrEziNTvLuJ39axLrQBlhcTIRvRM)
 
 ## Task
 
